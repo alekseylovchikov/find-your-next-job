@@ -1,0 +1,37 @@
+# Find job resources
+
+## Websites
+
+- [hirify.me](https://hirify.me/)
+- [remoteok.com](https://remoteok.com/)
+- [weworkremotely.com](https://weworkremotely.com/)
+- [remocate.app](https://www.remocate.app/)
+- [startup.jobs](http://startup.jobs/)
+- [geekjob.ru](https://geekjob.ru/vacancies)
+
+## Telegram channels
+
+- [@remocatedevs](https://t.me/remocatedevs)
+- [@remote_jobs_relocated](https://t.me/remote_jobs_relocated)
+- [@ITjobsFeed](https://t.me/ITjobsFeed)
+- [@jtbl_vacancy](https://t.me/jtbl_vacancy)
+- [@freetasks](https://t.me/freetasks)
+- [@juniors_rabota_jobs](https://t.me/juniors_rabota_jobs)
+- [@young_relocate](https://t.me/young_relocate)
+- [@Remoteit](https://t.me/Remoteit)
+- [@Relocats](https://t.me/Relocats)
+- [@JScript_jobs](https://t.me/JScript_jobs)
+- [@job_react](https://t.me/job_react)
+- [@devs_it](https://t.me/devs_it)
+- [@jsdevjob](https://t.me/jsdevjob)
+- [@easy_frontend_jobs](https://t.me/easy_frontend_jobs)
+- [@evacuatejobs](https://t.me/evacuatejobs)
+- [@ya_jobs](https://t.me/ya_jobs)
+- [@workingincrypto](https://t.me/workingincrypto)
+- [@forfrontend](https://t.me/forfrontend)
+- [@it_vakansii_jobs](https://t.me/it_vakansii_jobs)
+- [@vacancy_it_ulbitv](https://t.me/vacancy_it_ulbitv)
+- [@huggabletalents](https://t.me/huggabletalents)
+- [@sparklesjobs](https://t.me/sparklesjobs)
+- [@geekjobs](https://t.me/geekjobs)
+- [@salaryoverflow](https://t.me/salaryoverflow)
