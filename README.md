@@ -1,4 +1,4 @@
-# Find your next job
+![Find your next job](/hero_image.png)
 
 ## Websites
 
