@@ -1,4 +1,4 @@
-# Find job resources
+# Find your next job
 
 ## Websites
 
