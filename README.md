@@ -9,6 +9,7 @@
 - [startup.jobs](http://startup.jobs/)
 - [geekjob.ru](https://geekjob.ru/vacancies)
 - [getmatch.ru](https://getmatch.ru/vacancies)
+- [hirehi.ru](https://hirehi.ru/)
 
 ## Telegram channels
 
