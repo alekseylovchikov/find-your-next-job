@@ -10,6 +10,7 @@
 - [geekjob.ru](https://geekjob.ru/vacancies)
 - [getmatch.ru](https://getmatch.ru/vacancies)
 - [hirehi.ru](https://hirehi.ru/)
+- [jabka.work](https://jabka.work/)
 
 ## Telegram channels
 
